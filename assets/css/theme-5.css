@@ -165,13 +165,13 @@ sup {
 }
 
 a {
-    color: #ffffff;
+    color: #00ff80;
     text-decoration: none;
     background-color: transparent
 }
 
 a:hover {
-    color: #ffffff;
+    color: #00c3ff;
     text-decoration: underline
 }
 
@@ -10885,7 +10885,7 @@ h6 {
 }
 
 .theme-bg-light {
-    background: #fafafa !important
+    background: #c2c2c2 !important
 }
 
 .theme-bg-dark {
@@ -10893,12 +10893,12 @@ h6 {
 }
 
 .header {
-    position: fixed;
+    position: fixed;    
     left: 0;
     top: 0;
     height: 100vh;
     width: 280px;
-    background: #363636;
+    background: #434343;
     color: #ffffff
 }
 
